@@ -15,18 +15,6 @@ Here you'll find my projects, experiments, and contributions as I grow as a deve
 <!-- Top Languages -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shockp&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=9DA5B4)
 
-<!-- Streak Stats -->
-![GitHub Streak](https://streak-stats.demolab.com?user=shockp&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF&sideLabels=9DA5B4)
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-<div align="center">
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=shockp&theme=onedark&no-frame=true&row=1&column=6)
-
 </div>
 
 ---
