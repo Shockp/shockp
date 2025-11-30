@@ -9,6 +9,9 @@ Here you'll find my projects, experiments, and contributions as I grow as a deve
 
 <div align="center">
 
+<img src="https://github-readme-stats.vercel.app/api?username=shockp&show_icons=true&theme=tokyonight" />
+<br/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shockp&layout=compact&theme=tokyonight" />
 
 </div>
 
